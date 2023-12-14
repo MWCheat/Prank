@@ -1,0 +1,21 @@
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe.config
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.pdb
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.AssemblyReference.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.CoreCompileInputs.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Schule\2023 24\APK\C#\Projekts\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.pdb
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe.config
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.pdb
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.AssemblyReference.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.CoreCompileInputs.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.pdb
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe.config
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\bin\Debug\Zahlen Prank.pdb
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.AssemblyReference.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.csproj.CoreCompileInputs.cache
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.exe
+C:\Users\samuel\OneDrive - BHAK BHAS Feldbach\Dokumente\Privat\C#\Zahlen Prank\Zahlen Prank\obj\Debug\Zahlen Prank.pdb
